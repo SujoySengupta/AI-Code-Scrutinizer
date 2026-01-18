@@ -1,0 +1,37 @@
+1768627257811:help
+1768627410233:hello
+1768627413235:Hello
+1768627482324:quit
+1768627668604:help
+1768666752558:scrut("C:\\Users\\Sujoy\\Programming and Coding\\Projects\\Python\\GenAI.py")
+1768666757504:scrut
+1768666785740:scrut "C:\\Users\\Sujoy\\Programming and Coding\\Projects\\Python\\GenAI.py"
+1768666970959:scrut "C:/Users/Sujoy/Programming and Coding/Projects/Python/GenAI.py"
+1768667242008:help
+1768667264248:scrut "C:/Users/Sujoy/Programming and Coding/Projects/Python/GenAI.py"
+1768711947519:help
+1768711991925:scrut "C:\\\\Users\\\\Sujoy\\\\Programming and Coding\\\\Projects\\\\Python\\\\GenAI.py"
+1768716768624:help
+1768716788931:scrut "C:\\\\Users\\\\Sujoy\\\\Programming and Coding\\\\Projects\\\\Python\\\\GenAI.py"
+1768717159844:scrut "C:\\\\Users\\\\Sujoy\\\\Programming and Coding\\\\Projects\\\\Java\\\\AI-Code-Scrutinizer\\\\src\\\\main\\\\java\\\\com\\\\sujoy\\\\AI\\\\Code\\\\Scrutinizer\\\\AiClient.java"
+1768717574004:scrut "C:\\\\Users\\\\Sujoy\\\\Programming and Coding\\\\pytorch_fixed_pothole_detection_system_video\\\\Piku_Pothole_Detection_System\\\\Pothole_detection\\\\try programs\\\\pothole_detection.py"
+1768719899610:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py"
+1768720624838:help
+1768720664537:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py"
+1768720933744:help
+1768721042988:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py" 1
+1768722119252:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py" 3
+1768722595884:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py" 2
+1768722740364:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py" 1
+1768722848196:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py" 3
+1768723241749:# ⚠️ This is intentionally bad code — do NOT use in production.
+1768723241759:# Using eval, exec, and weird list comprehensions to sum numbers
+1768723241762:def cursed_sum(numbers):
+1768723241774:# Overwriting built-in functions (NEVER do this)
+1768723241777:list = lambda x: "Not a list anymore!"
+1768723241779:# Self-modifying code
+1768723241783:code = """\ndef hello():\n    print('Hello from inside a string!')\n"""
+1768723241787:exec(code)  # Defines hello() from a string
+1768723241789:# Abuse of recursion and default arguments
+1768723241791:def infinite_default(x=[]):
+1768723266298:scrut "C:\\\\Users\\\\Sujoy\\\\Documents\\\\Faltu\\\\BadExample.py" 3
