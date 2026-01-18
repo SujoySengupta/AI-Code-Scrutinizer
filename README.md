@@ -27,7 +27,7 @@ This application integrates a Java Spring Boot backend with a locally running LL
 ---
 
 ## 🚀 Demo
-*(Insert a screenshot or GIF here showing the CLI in action)*
+
 ![Recording 2026-01-18 152329](https://github.com/user-attachments/assets/d774bb94-5599-4e8e-9c5a-31f70f5ffbc7)
 
 `> scrut "C:\\MyBadCode.java" 3`
