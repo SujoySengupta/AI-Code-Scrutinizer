@@ -65,7 +65,7 @@ ollama pull codellama
 ### Step 2: Clone and Build
 
 ```bash
-git clone [https://github.com/YourUsername/AI-Code-Scrutinizer.git](https://github.com/YourUsername/AI-Code-Scrutinizer.git)
+git clone [https://github.com/SujoySengupta/AI-Code-Scrutinizer.git](https://github.com/YourUsername/AI-Code-Scrutinizer.git)
 cd AI-Code-Scrutinizer
 ./mvnw clean package -DskipTests
 
